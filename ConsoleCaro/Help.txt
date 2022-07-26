@@ -1,0 +1,7 @@
+
+			 CARO RULES
+
+CARO (Block Rule): The winner must have an overline or unbroken
+   row of five stones that mustn't be blocked at both ends.
+
+                 
